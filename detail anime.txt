@@ -1,0 +1,12 @@
+-Aired
+-Rating
+-Rank
+-Score
+-Scored By
+-Popularity
+-Status
+-Source
+-Season
+-Duration
+
+Synopsis

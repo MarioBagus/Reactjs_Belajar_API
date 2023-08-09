@@ -1,0 +1,44 @@
+.App {
+  
+}
+
+.popular{
+  text-align: center;
+}
+
+.header{
+  height : 80px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+.details{
+ margin:auto;
+ width:50%;
+ padding: 10px;
+ border: 1px solid black
+}
+.title-anime{
+  text-align: center;
+}
+.detail-anime{
+  margin-bottom:15px;
+}
+.form-control{
+  width:50%;
+}
+
+.showMore{
+
+    background-color: transparent;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    font-size: 1.2rem;
+    color: #27AE60;
+    font-weight: 600;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
