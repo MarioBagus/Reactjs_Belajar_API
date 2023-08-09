@@ -27,9 +27,9 @@ function Popular(){
     }
   
     function QueryHandler(){
-      console.log(query)
+      console.log(query);
   
-      getListAnime()
+      getListAnime();
     }
   
     useEffect(()=>{
