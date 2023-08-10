@@ -54,7 +54,7 @@ function Popular(){
             console.log(data.title)
             console.log(data.images.jpg.large_image_url)
             return(
-              <div class='col'>
+              <div class='col popular_items'>
                 <h4>{data.title}</h4>
                 <a href={`/detailAnime/${data.mal_id}`}> <img src={data.images.jpg.large_image_url} width="300" height="400"/> </a>
               </div>
